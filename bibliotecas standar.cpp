@@ -1,4 +1,7 @@
+//Programa inicial "Hola mundo"
+
 #include<iostream>
+
 #include<string>
 
 using namespace std;
